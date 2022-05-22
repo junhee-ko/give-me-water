@@ -1,6 +1,5 @@
 import React from "react";
-import './PlantItem.css'
-import GiveMeWaterModal from "./Modal";
+import GiveMeWaterModal from "./GiveMeWaterModal";
 
 const PlantItem = ({plant}) => {
 
